@@ -17,13 +17,13 @@ markdown    : kramdown
 highlighter : pygments
 
 # SEO settings
-title: dotX
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: Boroondara Bicycle Strategy 2018
+description: "Information for unofficial bike strategy for Boroondara"
+keywords: "Boroondara, bicycle, strategy, 2018, bike"
 
 # Site settings
-url: http://nandomoreira.me
-baseurl: "/dotX"
+url: http://github.io/philam
+baseurl: "/boroondarabikestrategy"
 # baseurl: ""
 
 # Author settings
@@ -40,7 +40,7 @@ author:
   linkedin  : http://linkedin.com/in/nandomoreirame
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/dotX
+repo: http://github.com/philam/boroondarabikestrategy
 
 # comments
 disqus_shortname: "fernandomoreira"

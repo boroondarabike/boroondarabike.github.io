@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: It's Free!
+subtitle: Boroondara Bike Strategy 2018
 permalink: /about/
 ---
 

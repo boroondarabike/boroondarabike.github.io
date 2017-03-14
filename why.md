@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-subtitle: Boroondara Bike Strategy 2018
-permalink: /about/
+title: Why
+subtitle: Why do we need a bicycle strategy for Boroondara?
+permalink: /why/
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)

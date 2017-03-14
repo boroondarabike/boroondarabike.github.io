@@ -18,7 +18,7 @@ highlighter : rouge
 
 # SEO settings
 title: Boroondara Bicycle Strategy 2018
-description: "Information for unofficial bike strategy for Boroondara"
+description: "Information for unofficial bicycle strategy for Boroondara"
 keywords: "Boroondara, bicycle, strategy, 2018, bike"
 
 # Site settings
@@ -44,3 +44,10 @@ repo: http://github.com/philam/boroondarabikestrategy
 
 # comments
 disqus_shortname: "philam"
+
+#collections
+collections:
+    why:
+        output: true
+        permalink: /why/:path/
+        

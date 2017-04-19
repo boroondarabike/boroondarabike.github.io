@@ -12,7 +12,7 @@ sass:
   style: expanded # compressed # expanded
 
 # permalink and highlighter
-permalink   : /:year/:title/
+permalink   : /:title/
 markdown    : kramdown
 highlighter : rouge
 
@@ -29,8 +29,8 @@ baseurl: "/boroondarabikestrategy"
 # Author settings
 author:
   name      : Philip Mallis
-  job       : Urban planner
-  bio       : "Map lover, bike rider and uni tutor."
+  job       : 
+  bio       : "Map lover, bike rider and urban planner."
   thumb     : /images/author.jpg
   email     : 
   url       : http://philipmallis.com
@@ -45,9 +45,6 @@ repo: http://github.com/philam/boroondarabikestrategy
 # comments
 disqus_shortname: "philam"
 
-#collections
-collections:
-    why:
-        output: true
-        permalink: /why/:path/
+# pages
+include: ["_pages"] 
         

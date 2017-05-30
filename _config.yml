@@ -22,8 +22,8 @@ description: "Information for the unofficial bicycle strategy for Boroondara"
 keywords: "Boroondara, bicycle, strategy, 2018, bike"
 
 # Site settings
-url: http://github.io/philam
-baseurl: "/boroondarabikestrategy"
+url: https://boroondarabike.github.io
+# baseurl: ""
 # baseurl: ""
 
 # Author settings
@@ -40,10 +40,10 @@ author:
   linkedin  : http://linkedin.com/in/philipmallis
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/philam/boroondarabikestrategy
+repo: https://github.com/boroondarabike/boroondarabike.github.io
 
 # comments
-disqus_shortname: "philam"
+disqus_shortname: "boroondarabike"
 
 # pages
 include: ["_pages"] 
